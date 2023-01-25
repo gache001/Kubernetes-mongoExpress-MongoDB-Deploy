@@ -1,1 +1,1 @@
-# MongoExpress Deploynent and Service file with ConfigMap & Ingress
+# MongoExpress Deployment and Service file with ConfigMap & Ingress
